@@ -1,9 +1,6 @@
 # organize imports
 import cv2
-import imutils
-import numpy as np
 import math
-import random
 
 # global variables
 bg = None
